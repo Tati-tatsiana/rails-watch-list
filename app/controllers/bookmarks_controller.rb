@@ -1,4 +1,4 @@
-before_action :set_bookmark, only: [:destroy]
+# before_action :set_bookmark, only: [:destroy]
 
 def new
   @bookmark = Bookmark.new
@@ -14,8 +14,8 @@ def create
   end
 end
 
-def destroy
-end
+# def destroy
+# end
 
-def set_bookmark
-end
+# def set_bookmark
+# end
