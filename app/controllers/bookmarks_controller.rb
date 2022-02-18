@@ -1,3 +1,4 @@
+class BookmarksController < ApplicationController
 # before_action :set_bookmark, only: [:destroy]
 
 def new
@@ -19,3 +20,4 @@ end
 
 # def set_bookmark
 # end
+end
