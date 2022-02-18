@@ -16,3 +16,6 @@ end
 
 def destroy
 end
+
+def set_bookmark
+end
